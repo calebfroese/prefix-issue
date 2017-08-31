@@ -2,5 +2,4 @@
 
 var shell = require("shelljs");
 
-shell.exec("exit 1");
-return "exit 1";
+shell.exec(`echo "# Please include a useful commit message!" > $1`);
