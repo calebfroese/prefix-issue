@@ -1,1 +1,1 @@
-return "running index!";
+console.log('cool');
