@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "entry": "./index.js",
-    "start": "./index.js"
+    "prefix-issue": "./index.js"
   },
   "repository": {
     "type": "git",
