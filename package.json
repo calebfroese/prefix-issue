@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "entry": "./index.js",
+    "start": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/calebfroese/prefix-issue.git"
