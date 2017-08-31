@@ -3,7 +3,6 @@
     description: "Prefixes the commit with the issue number"
     entry: prefix-issue
     language: node
-    types: [node]
     args: [-i]
     # for backward compatibility
     files: ''
